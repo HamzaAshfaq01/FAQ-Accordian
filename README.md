@@ -15,7 +15,7 @@
 <li>Easy Logic</li>
 <li>Easy to develop</li>
 <h2>Project Preview</h2>
-(https://ali-tahir4024.github.io/FAQ-slider-jQuery-/).
+(https://hamzaashfaq01.github.io/FAQ-Accordian/).
 
 Note:
 Jquery is linked in the code.If it does not work please link or attch it again.
